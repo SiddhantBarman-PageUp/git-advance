@@ -50,3 +50,11 @@ cout<<"hello world"<<enld;
 }
 ```
 
+[Google](https://www.google.com "Google Homepage")
+[Google](https://www.google.com)
+
+<abbr title="Hypertext Markup Language">HTML</abbr>
+
+![Alt Text](image-url)
+
+
