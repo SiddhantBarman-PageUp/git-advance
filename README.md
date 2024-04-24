@@ -31,3 +31,13 @@ _ third
 2. first
 3. first
 
+### Blockquote:
+> This is a blockquote.
+> It can span multiple lines.
+
+### Code Block:
+```python
+def hello():
+    print("Hello, world!")
+
+
