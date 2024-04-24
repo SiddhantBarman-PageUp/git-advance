@@ -42,9 +42,11 @@ _ third
 ```python
 def hello():
     print("Hello, world!")
+```
 
 ```c++
 void helloWorld(){
 cout<<"hello world"<<enld;
 }
+```
 
